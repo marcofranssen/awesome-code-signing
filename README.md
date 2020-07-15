@@ -12,3 +12,12 @@ This list contains a bunch of helpfull resources related to Code signing. E.g. D
 
 * [Guarding against supply chain attacks—Part 3: How software becomes compromised](https://www.microsoft.com/security/blog/2020/03/11/guarding-against-supply-chain-attacks-part-3-how-software-becomes-compromised/)
 * [Signing Docker images using Docker Content Trust](https://marcofranssen.nl/signing-docker-images-using-docker-content-trust/)
+
+## Repositories
+
+* [The Update Framework - Specification](https://github.com/theupdateframework/specification)
+* [The Update Framework - Notary](https://github.com/theupdateframework/notary)
+* [Docker - CLI](https://github.com/docker/cli)
+* [DCT Notary admin](https://github.com/philips-labs/dct-notary-admin)
+* [CNAB.io - Signy](https://github.com/cnabio/signy)
+* [in-toto - in-toto](https://github.com/in-toto/in-toto)
