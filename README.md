@@ -28,3 +28,4 @@ This list contains a bunch of helpfull resources related to Code signing. E.g. D
 
 * [Keybase GPG Git](https://github.com/pstadler/keybase-gpg-github) - Guide to manage gpg with keybase and setup Git commit signing
 * [Backup your PGP keys with GPG](https://msol.io/blog/tech/back-up-your-pgp-keys-with-gpg/) - Blog explaining backup and restore of PGP keys
+* [2factor PGP keys using Krypton](https://marcofranssen.nl/secure-2fa-ssh-and-pgp-using-krypton/) - Blog on setting up PGP and SSH using Krypton (includes 2fa)
