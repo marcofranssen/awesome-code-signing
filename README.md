@@ -23,3 +23,8 @@ This list contains a bunch of helpfull resources related to Code signing. E.g. D
 * [DCT Notary admin](https://github.com/philips-labs/dct-notary-admin) - A tool to manage signing certificates and TUF delegations.
 * [CNAB.io - Signy](https://github.com/cnabio/signy) - Implementation of CNAB security spec using Notary and in-toto
 * [in-toto - in-toto](https://github.com/in-toto/in-toto) - Framework to protect integrity of software supply chain
+
+## PGP
+
+* [Keybase GPG Git](https://github.com/pstadler/keybase-gpg-github) - Guide to manage gpg with keybase and setup Git commit signing
+* [Backup your PGP keys with GPG](https://msol.io/blog/tech/back-up-your-pgp-keys-with-gpg/) - Blog explaining backup and restore of PGP keys
