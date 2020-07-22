@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-This list contains a bunch of helpfull resources related to Code signing. E.g. Docker Content Trust and Notary.
+This list contains a bunch of helpfull resources related to Code signing. E.g. Docker Content Trust, Notary and PGP.
 
 ## Presentations
 
